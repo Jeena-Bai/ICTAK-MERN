@@ -78,4 +78,5 @@ for (let i = 0; i <num.length; i++) {
 }
 console.log("Sum of squares of elements of the given array is",sum)
 
+//kkllnb hbjn bnjmb mnvc vjnbhcv
     
