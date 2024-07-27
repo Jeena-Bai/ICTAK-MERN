@@ -64,7 +64,7 @@ for (let i = 0; i <=15; i++) {
     }
     else
     {
-        console.log(i + " is odd")
+        console.log(i + " is oddd")
     }
     
 }
