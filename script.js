@@ -64,7 +64,7 @@ for (let i = 0; i <=15; i++) {
     }
     else
     {
-        console.log(i + " is odd")
+        console.log(i + " is oddd")
     }
     
 }
@@ -78,4 +78,5 @@ for (let i = 0; i <num.length; i++) {
 }
 console.log("Sum of squares of elements of the given array is",sum)
 
+//kkllnb hbjn bnjmb mnvc vjnbhcv
     
